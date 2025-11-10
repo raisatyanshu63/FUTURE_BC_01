@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  padding: 20px;
+  background: #0b0c10;
+  color: #fff;
+  min-height: 100vh;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+  background: #1f2833;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 15px;
+  border-bottom: 1px solid #45a29e;
+}
+
+th {
+  background: #45a29e;
+  color: #0b0c10;
+}
+
+h1 {
+  color: #66fcf1;
+}
+
+h2 {
+  color: #45a29e;
+  margin-top: 30px;
+}
